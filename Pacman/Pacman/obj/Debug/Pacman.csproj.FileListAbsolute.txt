@@ -1,0 +1,24 @@
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.Imagenes.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.Imagenes.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
