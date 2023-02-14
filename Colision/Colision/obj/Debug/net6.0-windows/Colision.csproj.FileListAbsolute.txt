@@ -1,0 +1,17 @@
+C:\Users\Richie\source\repos\Colision\Colision\bin\Debug\net6.0-windows\Colision.exe
+C:\Users\Richie\source\repos\Colision\Colision\bin\Debug\net6.0-windows\Colision.deps.json
+C:\Users\Richie\source\repos\Colision\Colision\bin\Debug\net6.0-windows\Colision.runtimeconfig.json
+C:\Users\Richie\source\repos\Colision\Colision\bin\Debug\net6.0-windows\Colision.dll
+C:\Users\Richie\source\repos\Colision\Colision\bin\Debug\net6.0-windows\Colision.pdb
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.csproj.AssemblyReference.cache
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.Form1.resources
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.csproj.GenerateResource.cache
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.AssemblyInfoInputs.cache
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.AssemblyInfo.cs
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.dll
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\refint\Colision.dll
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.pdb
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\Colision.genruntimeconfig.cache
+C:\Users\Richie\source\repos\Colision\Colision\obj\Debug\net6.0-windows\ref\Colision.dll
