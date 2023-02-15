@@ -52,22 +52,21 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Imagenes.Designer.cs">
+    <Compile Include="Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Imagenes.resx</DependentUpon>
+      <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Map.cs" />
     <Compile Include="Movimiento.cs" />
-    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Imagenes.resx">
+    <EmbeddedResource Include="Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Imagenes.Designer.cs</LastGenOutput>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -129,6 +128,73 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Pacman_Standby.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pac_death.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you-died.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eyes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANIC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ORANGE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANIC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ready.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman_beginning.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman_chomp.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman_death.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman_eatfruit.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman_eatghost.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman_extrapac.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman_intermission.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cherry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chery.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

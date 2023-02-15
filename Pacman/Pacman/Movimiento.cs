@@ -22,7 +22,5 @@ namespace Pacman
 
         public int Velocidad { get; set; }
         public int VelocidadG { get; set; }
-        public int AnchoPantalla { get; set; }
-        public int AltoPantalla { get; set; }
     }
 }
