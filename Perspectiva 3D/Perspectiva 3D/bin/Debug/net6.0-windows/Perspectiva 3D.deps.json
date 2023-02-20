@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Perspectiva 3D/1.0.0": {
+        "runtime": {
+          "Perspectiva 3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perspectiva 3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

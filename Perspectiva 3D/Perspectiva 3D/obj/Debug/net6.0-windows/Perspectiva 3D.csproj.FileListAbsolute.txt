@@ -1,0 +1,17 @@
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.csproj.AssemblyReference.cache
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva_3D.Form.resources
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.csproj.GenerateResource.cache
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.AssemblyInfoInputs.cache
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.AssemblyInfo.cs
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Perspectiva 3D.exe
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Perspectiva 3D.deps.json
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Perspectiva 3D.runtimeconfig.json
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Perspectiva 3D.dll
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Perspectiva 3D.pdb
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.dll
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\refint\Perspectiva 3D.dll
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.pdb
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva 3D.genruntimeconfig.cache
+C:\Users\Richie\source\repos\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\ref\Perspectiva 3D.dll
