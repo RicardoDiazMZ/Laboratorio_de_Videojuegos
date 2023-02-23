@@ -46,8 +46,9 @@
             // 
             // timer1
             // 
+            this.timer1.Enabled = true;
             this.timer1.Interval = 20;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick_1);
             // 
             // button1
             // 
@@ -80,6 +81,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -92,5 +94,6 @@
         private System.Windows.Forms.Timer timer1;
         private Button button1;
         private Label label1;
+        private Button button2;
     }
 }
