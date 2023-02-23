@@ -1,0 +1,17 @@
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\bin\Debug\net6.0-windows\Particulas.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\bin\Debug\net6.0-windows\Particulas.deps.json
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\bin\Debug\net6.0-windows\Particulas.runtimeconfig.json
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\bin\Debug\net6.0-windows\Particulas.dll
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\bin\Debug\net6.0-windows\Particulas.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.Form.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.csproj.GenerateResource.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.AssemblyInfoInputs.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.AssemblyInfo.cs
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.dll
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\refint\Particulas.dll
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\Particulas.genruntimeconfig.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\Particulas\Particulas\obj\Debug\net6.0-windows\ref\Particulas.dll
