@@ -1,0 +1,97 @@
+E:\DOCS\CLASES\VIDEOJUEGOS\LYB\LYB\obj\x86\Debug\LYB.Form1.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\LYB\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\LYB\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\VIDEOJUEGOS\LYB\LYB\bin\Debug\LYB.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\LYB\LYB\bin\Debug\LYB.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\LYB\LYB\obj\x86\Debug\LYB.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\LYB\LYB\obj\x86\Debug\LYB.pdb
+L:\LYB\LYB\obj\x86\Debug\LYB.exe
+L:\LYB\LYB\obj\x86\Debug\LYB.pdb
+L:\LYB\LYB\bin\Debug\LYB.exe
+L:\LYB\LYB\bin\Debug\LYB.pdb
+L:\LYB\LYB\obj\x86\Debug\LYB.Form1.resources
+L:\LYB\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+L:\LYB\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.Cache
+F:\LYB\LYB\obj\x86\Debug\LYB.exe
+F:\LYB\LYB\obj\x86\Debug\LYB.pdb
+F:\LYB\LYB\bin\Debug\LYB.exe
+F:\LYB\LYB\bin\Debug\LYB.pdb
+F:\LYB\LYB\obj\x86\Debug\LYB.Form1.resources
+F:\LYB\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+F:\LYB\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.Cache
+G:\LYB_\LYB\obj\x86\Debug\LYB.exe
+G:\LYB_\LYB\obj\x86\Debug\LYB.pdb
+L:\LYB_\LYB\obj\x86\Debug\LYB.exe
+L:\LYB_\LYB\obj\x86\Debug\LYB.pdb
+L:\LYB_\LYB\bin\Debug\LYB.exe
+L:\LYB_\LYB\bin\Debug\LYB.pdb
+L:\LYB_\LYB\obj\x86\Debug\LYB.Form1.resources
+L:\LYB_\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+L:\LYB_\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.Cache
+L:\LYB_\LYB\obj\x86\Debug\LYB.csprojResolveAssemblyReference.cache
+L:\LYB_ - Copy\LYB\obj\x86\Debug\LYB.exe
+L:\LYB_ - Copy\LYB\obj\x86\Debug\LYB.pdb
+L:\LYB_ - Copy\LYB\bin\Debug\LYB.exe
+L:\LYB_ - Copy\LYB\bin\Debug\LYB.pdb
+L:\LYB_ - Copy\LYB\obj\x86\Debug\LYB.Form1.resources
+L:\LYB_ - Copy\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+L:\LYB_ - Copy\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.Cache
+L:\LYB_ - Copy\LYB\obj\x86\Debug\LYB.csprojResolveAssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\bin\Debug\LYB.exe.config
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\bin\Debug\LYB.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\bin\Debug\LYB.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.Form1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\LYB\obj\x86\Debug\LYB.pdb
+D:\Libraries\Documents\Uni\LYB\bin\Debug\LYB.exe.config
+D:\Libraries\Documents\Uni\LYB\bin\Debug\LYB.exe
+D:\Libraries\Documents\Uni\LYB\bin\Debug\LYB.pdb
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.csproj.SuggestedBindingRedirects.cache
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.Form1.resources
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.cache
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.exe
+D:\Libraries\Documents\Uni\LYB\obj\x86\Debug\LYB.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.Form1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\bin\Debug\LYB.exe.config
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\bin\Debug\LYB.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\bin\Debug\LYB.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.2\LYB\obj\x86\Debug\LYB.Resource1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\bin\Debug\LYB.exe.config
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\bin\Debug\LYB.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\bin\Debug\LYB.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.Form1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.Resource1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Lab\Juego_2do_parcial\V.3\LYB\obj\x86\Debug\LYB.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\bin\Debug\LYB.exe.config
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\bin\Debug\LYB.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\bin\Debug\LYB.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.csproj.SuggestedBindingRedirects.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.Form1.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.Properties.Resources.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.Resource1.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.csproj.GenerateResource.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\V.3\LYB\obj\x86\Debug\LYB.pdb
