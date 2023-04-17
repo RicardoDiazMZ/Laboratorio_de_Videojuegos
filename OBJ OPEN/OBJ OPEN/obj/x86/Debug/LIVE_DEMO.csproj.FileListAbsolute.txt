@@ -1,0 +1,52 @@
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\bin\Debug\LIVE_DEMO.pdb
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.exe
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.pdb
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+E:\DOCS\CLASES\GRAFICACION\018 CLIPPING\LIVE_DEMO\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csprojResolveAssemblyReference.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe.config
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\bin\Debug\LIVE_DEMO.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.SuggestedBindingRedirects.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.GenerateResource.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.pdb
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe.config
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.pdb
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.AssemblyReference.cache
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.GenerateResource.cache
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.exe
+C:\Users\Pimienta\Downloads\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe.config
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\3er_parcial\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe.config
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.pdb
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.SuggestedBindingRedirects.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.main_form.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.GenerateResource.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.exe
+D:\Libraries\Documents\Uni\Lab de Videojuegos\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.pdb
